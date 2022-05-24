@@ -62,7 +62,7 @@ The following image shows the web application's appearance:
 ## Link
 [Github](https://github.com/minhkhoinguy/Employee-Tracker)
 
-[Deploy Video]([https://](https://drive.google.com/drive/folders/1zjYQ6wzAyDiO9GpZMuO344EzKAptAtib?usp=sharing))
+[Deploy Video](https://drive.google.com/drive/folders/1zjYQ6wzAyDiO9GpZMuO344EzKAptAtib?usp=sharing)
 
 ## Contact
 Contact me with the link below if you have any questions!
